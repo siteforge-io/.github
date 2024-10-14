@@ -12,7 +12,8 @@ Siteforge.io's intuitive interface and automated processes eliminate the need fo
 At SiteForge, we maintain various open sourced packages developed by our team.
 
 ### Links
-> - [Website](https://siteforge.io)
-> - [X.com](https://x.com/@siteforgeio)
-> - [Github](https://github.com/apps/siteforge-app)
+- [Website](https://siteforge.io)
+- [X.com](https://x.com/@siteforgeio)
+- [Github](https://github.com/apps/siteforge-app)
+
 
