@@ -7,5 +7,6 @@ The platform distinguishes itself with a unique set of features, including an AI
 
 Siteforge.io's intuitive interface and automated processes eliminate the need for extensive technical knowledge, making it an ideal solution for professionals across various industries seeking to launch or enhance their digital footprint. Whether it's a small business owner looking to establish an online store or a digital agency aiming to streamline its web development workflow, Siteforge.io provides the tools and support necessary to achieve a competitive edge in the digital marketplace.
 
-> [Website](https://siteforge.io]
-> [Github](https://github.com/apps/siteforge-app)
+> - [Website](https://siteforge.io]
+> - [Github](https://github.com/apps/siteforge-app)
+
